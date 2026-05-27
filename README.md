@@ -7,8 +7,8 @@
 <br>- Messenger clone - A real-time messaging application using Next.js with authentication, active status tracking, and context providers<br>- Authentication systems - Multiple projects involving NextAuth.js, JWT, and user management<br>
 ### 👯 I'm looking to collaborate on:
 <br>
-##### 🌐 Modern web applications using:<br>- React/Next.js projects - With an extensive experience React ecosystems (useReducer, Redux, RTK)<br>- Full-stack TypeScript applications - Currently working with TypeScript across multiple projects<br>- Authentication & messaging systems - Messenger clone, using authentication implementations, creating users in MongoDB, the usage of websockets and a system of messages between users.<br>
-##### 📱 Mobile applications:
+### 🌐 Modern web applications using:<br>- React/Next.js projects - With an extensive experience React ecosystems (useReducer, Redux, RTK)<br>- Full-stack TypeScript applications - Currently working with TypeScript across multiple projects<br>- Authentication & messaging systems - Messenger clone, using authentication implementations, creating users in MongoDB, the usage of websockets and a system of messages between users.<br>
+### 📱 Mobile applications:
 <br>Flutter mobile applications - With several Flutter projects for cross-platform mobile development<br>
 
 ### 🤔 I'm looking for help with:
