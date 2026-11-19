@@ -1,31 +1,91 @@
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<h1 align="center">Hi, I'm Alexis Segura 👋</h1>
+<h3 align="center">Full Stack & Mobile Developer · Founder of <b>fastSolution</b>: custom software for SMEs</h3>
+<p align="center">Web · Mobile · Backend · Automation, from idea to production</p>
 
-### 👋 Who am i?
-<br>Alexis Segura, Junior Full Stack Developer with experience building web applications using React, Node.js, Flutter and relational<br>databases. Focused on responsive interface development, component-based architecture, and REST API<br>consumption. I look forward to joining a team where I can provide scalable solutions while continuing to strengthen<br>my backend skills.<br>
-### 🔭 I'm currently working on:
-<br>- Messenger clone - A real-time messaging application using Next.js with authentication, active status tracking, and context providers<br>- Authentication systems - Multiple projects involving NextAuth.js, JWT, and user management<br>
-### 👯 I'm looking to collaborate on:
-<br>
-### 🌐 Modern web applications using:<br>- React/Next.js projects - With an extensive experience React ecosystems (useReducer, Redux, RTK)<br>- Full-stack TypeScript applications - Currently working with TypeScript across multiple projects<br>- Authentication & messaging systems - Messenger clone, using authentication implementations, creating users in MongoDB, the usage of websockets and a system of messages between users.<br>
-### 📱 Mobile applications:
-<br>Flutter mobile applications - With several Flutter projects for cross-platform mobile development<br>
+---
 
-### 🤔 I'm looking for help with:
-<br>- Implementing the best QA practices - By implementing the ISTQB principles<br>- Testing React applications - By implementing the testing methodologies using Jest<br>- Email backend services - Nodemailer implementation in my projects, using the best optimization and best practices<br>
+<div align="center" justify="between" space="evenly">
+  <h2>💻 Infra Stack</h2>
+  <p align="center" display="flex">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" hspace="20"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" hspace="20"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" hspace="20"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" hspace="20"/>
+</p>
+</div>
 
-### 🌱 I'm currently learning:
-<br>- TypeScript - You have a dedicated repository for Learning TypeScript (O'Reilly book)<br>- Flutter & Dart - Multiple Flutter projects including login processes, styling, and UI improvements<br>- Full-stack authentication patterns - NextAuth.js, JWT, and secure authentication flows<br>- Backend development - Express.js servers, email services with Nodemailer, and API development<br>- Modern React patterns - Context API, hooks, and component architecture<br>
+<div align="center" justify="between">
+  <h2>💻 AI Stack:</h2>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" hspace="20"/> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" hspace="20" /> 
+</div>
 
-### 💬 Ask me about:
-<br>- Next.js and React development<br>- Flutter mobile development (Cross-platform app development with authentication)<br>- Setting up authentication systems - NextAuth.js, JWT, and secure login flows<br>- Building chat applications (Real-time communication features)<br>- SMTP email integration - Nodemailer and backend email services<br>- Tailwind CSS - Styling modern web applications<br>
+<div align="center" justify="between">
+  <h2>💻 LTS Software and frameworks</h2>
+  </a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" hspace="20" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" hspace="20" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" hspace="20" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" hspace="20"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" hspace="20" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" hspace="20" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" hspace="20" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  
+</div>
 
-### ⚡ Fun fact:
-<br>🥸 My notion has A LOT of information that i wrote, even my professor from uni asked me to share it with the other students.<br>🌟 I love to create apps on Web using JavaScript, but i wanted a typed langugage, that's why i learned TypeScript, now im want to become a "WOW developer"
+## 👤 About me
+
+I'm a Full Stack Developer from Mexico City, and I like working across the whole product: web, mobile, backend and the automation around them. I started with HTML, CSS and vanilla JavaScript, building a music player, an RPG game and a school Tetris, and grew from there. My public repos follow that path.
+
+- **Automation & AI:** **Python** job scraping, **n8n** workflows, and agents for SEO/GEO and LinkedIn content.
+- **Backend:** REST APIs with **Node.js/Express** (to-do APIs, a full gym-management backend, Nodemailer email services), a plain **Java** HTTP server, and **Kotlin + Spring Boot** with **PostgreSQL**.
+- **Mobile:** **Flutter/Dart** (a meal app, login flows, a chat with an invitation tracker, UI styling) and native Android with **Kotlin + Jetpack Compose**.
+- **Landing pages & marketing:** TypeScript landing pages with **Tailwind** and **GSAP** animations, built for SEO and conversions.
+- **Web:** a lot of React. That includes hooks, Context, Redux/RTK, class components, React Router SPAs and testing with Jest. With it I built apps like a hotel site, a pizza-ordering front end, travel itinerary apps, a quiz app and a bill splitter. I then moved to **Next.js + TypeScript** for a real-time Messenger clone and NextAuth/JWT authentication with MongoDB, plus some **Angular**.- **Web:** a lot of React. That includes hooks, Context, Redux/RTK, class components, React Router SPAs and testing with Jest. With it I built apps like a hotel site, a pizza-ordering front end, travel itinerary apps, a quiz app and a bill splitter. I then moved to **Next.js + TypeScript** for a real-time Messenger clone and NextAuth/JWT authentication with MongoDB, plus some **Angular**.
+
+## 🛠️ Tech stack
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · Angular · Tailwind CSS · Bootstrap · GSAP
+**Backend:** Node.js · Express · Kotlin · Spring Boot · Java · NextAuth.js / JWT · Nodemailer
+**Mobile:** Flutter / Dart · Kotlin + Jetpack Compose
+**Data:** PostgreSQL · MongoDB
+**DevOps & tools:** Docker · Git · Keycloak · OpenAPI · Jest
+**Automation & AI:** Python · n8n · MCP
+
+#### Today I put all of this to work through **fastSolution**, my own brand. I build custom software for small and medium businesses, from the first conversation to the deployed product.
+
+## 🔭 I'm currently working on
+
+- **fastSolution**: the brand's landing page and the services I offer to SME owners and HR teams
+- **An SEO/GEO agent**: a tool that helps businesses get found on search engines *and* in AI answers
+- **Zenit** ([repo](https://github.com/Alsegurarp/fs_asistencias) · [landing](https://silver-klepon-5ff04e.netlify.app/)): a time-and-attendance platform with a Spring Boot API, a React portal and an Android NFC app
+- **LinkedIn automation with n8n**: publishing my content automatically so it reaches the right business owners
+- **Client sites**: landing pages and ad/promo pages built with TypeScript, plus a gym-tracking app
+
+## 🌱 I'm currently learning
+
+- **Kotlin** on both sides: Spring Boot APIs and Jetpack Compose apps
+- **Software architecture**: Clean Architecture, contract-first APIs (OpenAPI), multi-tenant design
+- **Security & identity**: OAuth2/OIDC with Keycloak, JWT, least-privilege databases
+- **DevOps**: Docker-only development, CI checks, backups and vulnerability scanning
+- **AI for developers**: Model Context Protocol (MCP), agents and workflow automation
+- **QA**: ISTQB principles and stronger automated testing for React and APIs
+
+## ⚡ Something more
+
+> 🚀 **I turn business problems into working software.** I've built web apps, mobile apps, APIs, landing pages and automations. With fastSolution I deliver complete solutions to SMEs: I listen to the problem, design it, build it, and ship it. If you run a business or an HR team and need software made for *you*, let's talk.
+
+- 📚 My Notion study notes got so detailed that my university professor asked me to share them with the whole class.
+- 🧭 Always curious: I fork and study projects from many corners, like C++ emulators and game ports, Rust creative tools, .NET templates and AI curricula, just to see how other people solve hard problems.
+
+## 🌐 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+
+<!-- Keep your GitHub Stats / Top Contributed Repo widgets below this line -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alsegurarp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alsegurarp&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alsegurarp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
